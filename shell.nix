@@ -7,10 +7,9 @@ pkgs.mkShell rec {
 		libxkbcommon
 		libGL
 
-		SDL2
-		SDL2_ttf
+		sdl3
+		sdl3-ttf
 
-		boost		
 		cmake
 		catch2
 		glm
