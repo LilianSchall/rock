@@ -26,6 +26,7 @@ pkgs.mkShell rec {
 		glfw3
 		mesa
 		glslang
+		shaderc
 		renderdoc
 		spirv-tools
 		vulkan-volk
